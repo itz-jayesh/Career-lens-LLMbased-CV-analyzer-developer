@@ -121,16 +121,47 @@ CLOUDINARY_UPLOAD_PRESET=your_upload_preset
 
 ---
 
-## 📸 Screenshots
+# 📸 Application Preview
 
-Add screenshots of:
+## 🏠 Home Page
 
-- Home Page
-- Resume Builder
-- Resume Analyzer
-- ATS Score Dashboard
-- AI Suggestions
-- Generated Resume
+![Home](screenshots/1.home.png)
+
+---
+
+## 🔐 Login
+
+![Login](screenshots/2.Loggin.png)
+
+---
+
+## 📑 Template Selection
+
+![Template Selection](screenshots/3.template_selection.png)
+
+---
+
+## ✍️ Resume Generation Process
+
+![Resume Generation](screenshots/4.CVgeneration_process.png)
+
+---
+
+## 🤖 Missing Skills Analysis
+
+![Missing Skills](screenshots/5.missing_skills.png)
+
+---
+
+## 📊 ATS Score
+
+![ATS Score](screenshots/6.ATSscore.png)
+
+---
+
+## 📄 Generated Resume
+
+![Generated Resume](screenshots/7.generated_resume.png)
 
 ---
 
