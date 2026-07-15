@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Celestial",
+        "desc": "A refined and modern layout with soft, professional tones.",
+        "link": "/user/generate-resume/template/template1"
+    },
+    {
+        "id": 2,
+        "name": "Galaxy",
+        "desc": "A bold and striking design that highlights your expertise.",
+        "link": "/user/generate-resume/template/template2"
+    },
+    {
+        "id": 3,
+        "name": "Astral",
+        "desc": "A clean, elegant structure for a polished presentation.",
+        "link": "/user/generate-resume/template/template1"
+    },
+    {
+        "id": 4,
+        "name": "Eclipse",
+        "desc": "A powerful template emphasizing key achievements.",
+        "link": "/user/generate-resume/template/template2"
+    },
+    {
+        "id": 5,
+        "name": "Orbit",
+        "desc": "A balanced and structured format for all professionals.",
+        "link": "/user/generate-resume/template/template1"
+    },
+    {
+        "id": 6,
+        "name": "Comet",
+        "desc": "A vibrant and dynamic resume style with modern accents.",
+        "link": "/user/generate-resume/template/template2"
+    },
+    {
+        "id": 7,
+        "name": "Solstice",
+        "desc": "A uniquely crafted layout expressing individuality.",
+        "link": "/user/generate-resume/template/template1"
+    },
+    {
+        "id": 8,
+        "name": "Pulsar",
+        "desc": "A bold design perfect for making a lasting impact.",
+        "link": "/user/generate-resume/template/template2"
+    },
+    {
+        "id": 9,
+        "name": "Quasar",
+        "desc": "A sharp, innovative layout ideal for tech professionals.",
+        "link": "/user/generate-resume/template/template1"
+    },
+    {
+        "id": 10,
+        "name": "Nebular",
+        "desc": "A visually appealing modern template for personal branding.",
+        "link": "/user/generate-resume/template/template2"
+    },
+    {
+        "id": 11,
+        "name": "Nova",
+        "desc": "A bold, energetic format to showcase major achievements.",
+        "link": "/user/generate-resume/template/template1"
+    },
+    {
+        "id": 12,
+        "name": "Aurora",
+        "desc": "An eye-catching layout ideal for fast-paced careers.",
+        "link": "/user/generate-resume/template/template2"
+    },
+    {
+        "id": 13,
+        "name": "Hyperion",
+        "desc": "Strong typography with a clean and confident style.",
+        "link": "/user/generate-resume/template/template1"
+    },
+    {
+        "id": 14,
+        "name": "Lunar",
+        "desc": "A minimalist template reflecting clarity and precision.",
+        "link": "/user/generate-resume/template/template2"
+    },
+    {
+        "id": 15,
+        "name": "Stellar",
+        "desc": "A sleek and polished design emphasizing excellence.",
+        "link": "/user/generate-resume/template/template1"
+    },
+    {
+        "id": 16,
+        "name": "Zenith",
+        "desc": "A bold, minimalistic layout focusing on clarity.",
+        "link": "/user/generate-resume/template/template2"
+    },
+    {
+        "id": 17,
+        "name": "Aether",
+        "desc": "A structured professional resume with clean lines.",
+        "link": "/user/generate-resume/template/template1"
+    },
+    {
+        "id": 18,
+        "name": "Nebula",
+        "desc": "A creative and expansive template for diverse skills.",
+        "link": "/user/generate-resume/template/template2"
+    },
+    {
+        "id": 19,
+        "name": "Eon",
+        "desc": "An easy-to-read, simple format showcasing strengths.",
+        "link": "/user/generate-resume/template/template1"
+    },
+    {
+        "id": 20,
+        "name": "Cosmos",
+        "desc": "A complete, well-structured layout covering your journey.",
+        "link": "/user/generate-resume/template/template2"
+    }
+]

@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+html,
+body {
+    width: 100vw;
+    overflow-x: hidden;
+    background-color: #000d2b;
+    font-family: "Outfit", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
+}
+
+/* Chrome, Safari, Edge */
+::-webkit-scrollbar {
+    width: 6px;
+    /* thinner width */
+}
+
+/* Scrollbar track */
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+/* Scrollbar thumb (the draggable part) */
+::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+/* Firefox */
+* {
+    scrollbar-width: thin;
+    /* options: auto | thin | none */
+    scrollbar-color: rgba(0, 0, 0, 0.3) transparent;
+}
+
+
+/* Technical Questions Page PDF Styling */
+.pdf-container {
+    background-color: #111827;
+    border-color: #1f2937;
+}
+
+.pdf-header {
+    color: #818cf8;
+}
+
+.pdf-download-btn {
+    color: #9ca3af;
+    border-color: #374151;
+}
+
+.pdf-download-btn:hover {
+    color: #ffffff;
+}
+
+.pdf-text {
+    color: #d1d5db;
+}
+
+.pdf-question-card {
+    border-color: #1e293b;
+}
+
+.pdf-question-card:hover {
+    background-color: #000346;
+    border-color: #6366f1;
+}
+
+.pdf-answer {
+    color: #d1d5db;
+}
