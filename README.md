@@ -123,6 +123,10 @@ CLOUDINARY_UPLOAD_PRESET=your_upload_preset
 
 # 📸 Application Preview
 
+Explore the application's workflow from resume creation to AI-powered analysis and final resume generation.
+
+---
+
 ## 🏠 Home Page
 
 ![Home](screenshots/1.home.png)
@@ -135,24 +139,35 @@ CLOUDINARY_UPLOAD_PRESET=your_upload_preset
 
 ---
 
-## 📑 Template Selection
+## 📊 ATS Score Dashboard
 
-![Template Selection](screenshots/3.template_selection.png)
-
----
-
-## ✍️ Resume Generation Process
-
-![Resume Generation](screenshots/4.CVgeneration_process.png)
+![ATS Score](screenshots/3.ATSscore.png)
 
 ---
 
 ## 🤖 Missing Skills Analysis
 
-![Missing Skills](screenshots/5.missing_skills.png)
+![Missing Skills](screenshots/4.missing_skills.png)
 
 ---
 
+## 📑 Resume Template Selection
+
+![Template Selection](screenshots/5.template_selection.png)
+
+---
+
+## ✍️ Resume Generation Process
+
+![Resume Generation](screenshots/6.CVgeneration%20process.png)
+
+---
+
+## 📄 Final Generated Resume
+
+![Generated Resume](screenshots/7.generated%20.png)
+
+---
 ## 📊 ATS Score
 
 ![ATS Score](screenshots/6.ATSscore.png)
