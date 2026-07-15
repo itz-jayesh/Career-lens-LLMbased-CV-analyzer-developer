@@ -162,7 +162,7 @@ Contributions are welcome!
 
 **Jayesh Tupere**
 
-- LinkedIn: *()*
+- LinkedIn: *(https://www.linkedin.com/in/jayesh-tupere/)*
 - GitHub: https://github.com/itz-jayesh
 
 ---
